@@ -1,0 +1,6 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\ClassLibrary\obj\Debug\ClassLibrary.pdb

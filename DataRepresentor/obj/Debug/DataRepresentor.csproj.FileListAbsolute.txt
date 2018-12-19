@@ -1,0 +1,15 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\DataRepresentor.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\DataRepresentor.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\ClassLibrary.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\LiveCharts.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\ClassLibrary.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\LiveCharts.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\LiveCharts.xml
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\obj\Debug\DataRepresentor.csprojAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\obj\Debug\DataRepresentor.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\obj\Debug\DataRepresentor.csproj.CopyComplete
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\obj\Debug\DataRepresentor.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataRepresentor\obj\Debug\DataRepresentor.pdb

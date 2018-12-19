@@ -1,0 +1,16 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\DataController.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\DataController.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\ClassLibrary.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\Provider.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\ClassLibrary.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\Provider.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\obj\Debug\DataController.csprojAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\obj\Debug\DataController.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\obj\Debug\DataController.csproj.CopyComplete
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\obj\Debug\DataController.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\obj\Debug\DataController.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\EPPlus.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\3 аттестация\Task7\DataController\bin\Debug\EPPlus.xml
